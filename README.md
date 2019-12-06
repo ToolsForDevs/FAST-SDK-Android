@@ -2,4 +2,4 @@
 
 Demo project coming soon
 
-Head over the wiki for more information or check out our website https://www.toolsfordevs.com
+Head over the wiki for more information or check out our website https://www.fast-sdk.com
