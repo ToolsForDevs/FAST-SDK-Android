@@ -14,6 +14,8 @@ Please read the [Wiki](https://github.com/ToolsForDevs/FAST-SDK-Android/wiki/Fir
 ## What is FAST SDK?
 FAST SDK is a framework of UI tools for Android developers. In order to avoid any surprise quickly: FAST SDK **IS NOT FREE**, nor open source.
 
+**[Presentation video](https://www.youtube.com/watch?v=d_KzA5wDB10)**
+
 Its modularity allows you to include in your project only the tools you need. Each tool comes as a dependency like any third-party library.
 
 The tools are only usable in the Android app (e.g not in your IDE, browser, or as a separate software). They are displayed in your Android app, over your activity’s layout. Rest assured, thanks to some magic, your layouts **ARE NOT** modified.
@@ -40,13 +42,13 @@ FAST SDK is written in Kotlin, and will try its best to be compatible with Jav
 ## Current available plugins
 Name | Description | Preview
 ---- | ----------- | -------
-View Inspector | Live edit your views and layouts | **[Video](https://www.youtube.com/watch?v=urumZQpa83I)**<br/><br/>  ![screenshot](./assets/images/view_inspector.png)
-Actions |Use the power of lambdas to execute any piece of code with or without parameters | **[Video](https://www.youtube.com/watch?v=F962GEgVUOY)**<br/><br/> ![screenshot](./assets/images/actions.png)
-Overlays | Display visual information on your views like size, margins, paddings, positions, ... as well as pixel grids and rulers | ![screenshot](./assets/images/overlay.png)
-Resource Explorer | View your app’s resources like colors, dimensions, drawable and strings | **[Video](https://www.youtube.com/watch?v=8geHl8vYMFM)**<br/><br/> ![screenshot](./assets/images/resource_explorer.png)
-Logger | A very powerful Logcat | ![screenshot](./assets/images/logger.png)
+View Inspector | Live edit your views and layouts | **[Video](https://www.youtube.com/watch?v=urumZQpa83I)**<br/><br/>  ![screenshot](./assets/images/view_inspector.jpg)
+Actions |Use the power of lambdas to execute any piece of code with or without parameters | **[Video](https://www.youtube.com/watch?v=F962GEgVUOY)**<br/><br/> ![screenshot](./assets/images/actions.jpg)
+Overlays | Display visual information on your views like size, margins, paddings, positions, ... as well as pixel grids and rulers | ![screenshot](./assets/images/overlay.jpg)
+Resource Explorer | View your app’s resources like colors, dimensions, drawable and strings | **[Video](https://www.youtube.com/watch?v=8geHl8vYMFM)**<br/><br/> ![screenshot](./assets/images/resource_explorer.jpg)
+Logger | A very powerful Logcat | ![screenshot](./assets/images/logger.jpg)
 Crash Info | Instantaneously get data about a crash, and decide what to do after that (restart app, restart activity, clear data, ignore the crash and continue) | **[Video](https://www.youtube.com/watch?v=zYuKsefqR7U)**<br/><br/> ![screenshot](./assets/images/crash_info.png)
-SharedPreferences Editor | Visualize and edit your SharedPreferences | ![screenshot](./assets/images/shared_preferences.png)
-Network Inspector | Visualize you network requests (headers, body, ...) | ![screenshot](./assets/images/network_inspector.png)
+SharedPreferences Editor | Visualize and edit your SharedPreferences | ![screenshot](./assets/images/shared_preferences.jpg)
+Network Inspector | Visualize you network requests (headers, body, ...) | ![screenshot](./assets/images/network_inspector.jpg)
 
 
