@@ -1,5 +1,7 @@
 > BUILDING THE FUTURE OF ANDROID TOOLS FOR DEVELOPERS.
 
+![Logo](./assets/images/fast_logo.png)
+
 # Public repository of FAST SDK for Android
 
 Demo project coming soon
