@@ -1,11 +1,15 @@
-# Public repository for the FAST SDK for Android
+> BUILDING THE FUTURE OF ANDROID TOOLS FOR DEVELOPERS.
+
+# Public repository of FAST SDK for Android
 
 Demo project coming soon
 
 Head over the wiki for more information or check out our website https://www.fast-sdk.com
 
-Current status : **Beta**  
+Current status : **Beta**
 Last version : **0.8.7**
+
+Please read the [Wiki](https://github.com/ToolsForDevs/FAST-SDK-Android/wiki/First-steps) for documentation on integration.
 
 ## What is FAST SDK?
 FAST SDK is a framework of UI tools for Android developers. In order to avoid any surprise quickly: FAST SDK **IS NOT FREE**, nor open source.
@@ -36,14 +40,13 @@ FAST SDK is written in Kotlin, and will try its best to be compatible with Jav
 ## Current available plugins
 Name | Description | Preview
 ---- | ----------- | -------
-View Inspector | Live edit your views and layouts | [video](https://www.youtube.com/watch?v=urumZQpa83I)
-Actions |Use the power of lambdas to execute any piece of code with or without parameters | [video](https://www.youtube.com/watch?v=F962GEgVUOY)
-Overlays | Display visual information on your views like size, margins, paddings, positions, ... as well as pixel grids and rulers
-Resource Explorer | View your app’s resources like colors, dimensions, drawable and strings | [video](https://www.youtube.com/watch?v=8geHl8vYMFM)
-Logger | A very powerful Logcat
-Crash Info | Instantaneously get data about a crash, and decide what to do after that (restart app, restart activity, clear data, ignore the crash and continue) | [video](https://www.youtube.com/watch?v=zYuKsefqR7U)
-SharedPreferences Editor | Visualize and edit your SharedPreferences
-Network Inspector | Visualize you network requests (headers, body, ...)
+View Inspector | Live edit your views and layouts | **[Video](https://www.youtube.com/watch?v=urumZQpa83I)**<br/><br/>  ![screenshot](./assets/images/view_inspector.png)
+Actions |Use the power of lambdas to execute any piece of code with or without parameters | **[Video](https://www.youtube.com/watch?v=F962GEgVUOY)**<br/><br/> ![screenshot](./assets/images/actions.png)
+Overlays | Display visual information on your views like size, margins, paddings, positions, ... as well as pixel grids and rulers | ![screenshot](./assets/images/overlay.png)
+Resource Explorer | View your app’s resources like colors, dimensions, drawable and strings | **[Video](https://www.youtube.com/watch?v=8geHl8vYMFM)**<br/><br/> ![screenshot](./assets/images/resource_explorer.png)
+Logger | A very powerful Logcat | ![screenshot](./assets/images/logger.png)
+Crash Info | Instantaneously get data about a crash, and decide what to do after that (restart app, restart activity, clear data, ignore the crash and continue) | **[Video](https://www.youtube.com/watch?v=zYuKsefqR7U)**<br/><br/> ![screenshot](./assets/images/crash_info.png)
+SharedPreferences Editor | Visualize and edit your SharedPreferences | ![screenshot](./assets/images/shared_preferences.png)
+Network Inspector | Visualize you network requests (headers, body, ...) | ![screenshot](./assets/images/network_inspector.png)
 
-## Screenshots
 
