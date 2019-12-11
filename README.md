@@ -9,7 +9,7 @@ Demo project coming soon
 Head over the wiki for more information or check out our website https://www.fast-sdk.com
 
 Current status : **Beta**
-Last version : **0.8.7**
+Last version : **0.8.8**
 
 Please read the [Wiki](https://github.com/ToolsForDevs/FAST-SDK-Android/wiki/First-steps) for documentation on integration.
 
