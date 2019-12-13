@@ -9,7 +9,8 @@ Demo project coming soon
 Head over the wiki for more information or check out our website https://www.fast-sdk.com
 
 Current status : **Beta**
-Last version : **0.8.8**
+Last version : **0.8.9**
+Number of tools: **9**
 
 Please read the [Wiki](https://github.com/ToolsForDevs/FAST-SDK-Android/wiki/First-steps) for documentation on integration.
 
@@ -44,13 +45,13 @@ FAST SDK is written in Kotlin, and will try its best to be compatible with Jav
 ## Current available plugins
 Name | Description | Preview
 ---- | ----------- | -------
-View Inspector | Live edit your views and layouts | **[Video](https://www.youtube.com/watch?v=urumZQpa83I)**<br/><br/>  ![screenshot](./assets/images/view_inspector.jpg)
 Actions |Use the power of lambdas to execute any piece of code with or without parameters | **[Video](https://www.youtube.com/watch?v=F962GEgVUOY)**<br/><br/> ![screenshot](./assets/images/actions.jpg)
-Overlays | Display visual information on your views like size, margins, paddings, positions, ... as well as pixel grids and rulers | ![screenshot](./assets/images/overlay.jpg)
-Resource Explorer | View your app’s resources like colors, dimensions, drawable and strings | **[Video](https://www.youtube.com/watch?v=8geHl8vYMFM)**<br/><br/> ![screenshot](./assets/images/resource_explorer.jpg)
-Logger | A very powerful Logcat | ![screenshot](./assets/images/logger.jpg)
 Crash Info | Instantaneously get data about a crash, and decide what to do after that (restart app, restart activity, clear data, ignore the crash and continue) | **[Video](https://www.youtube.com/watch?v=zYuKsefqR7U)**<br/><br/> ![screenshot](./assets/images/crash_info.png)
-SharedPreferences Editor | Visualize and edit your SharedPreferences | ![screenshot](./assets/images/shared_preferences.jpg)
+File Explorer | Explore your app’s private data folders, as well as other directories on the device | ![screenshot](./assets/images/file_explorer.jpg)
+Logger | A very powerful Logcat | ![screenshot](./assets/images/logger.jpg)
+Overlays | Display visual information on your views like size, margins, paddings, positions, ... as well as pixel grids and rulers | ![screenshot](./assets/images/overlay.jpg)
 Network Inspector | Visualize you network requests (headers, body, ...) | ![screenshot](./assets/images/network_inspector.jpg)
-
+Resource Explorer | View your app’s resources like colors, dimensions, drawable and strings | **[Video](https://www.youtube.com/watch?v=8geHl8vYMFM)**<br/><br/> ![screenshot](./assets/images/resource_explorer.jpg)
+SharedPreferences Editor | Visualize and edit your SharedPreferences | ![screenshot](./assets/images/shared_preferences.jpg)
+View Inspector | Live edit your views and layouts | **[Video](https://www.youtube.com/watch?v=urumZQpa83I)**<br/><br/>  ![screenshot](./assets/images/view_inspector.jpg)
 
