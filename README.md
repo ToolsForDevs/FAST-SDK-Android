@@ -1,4 +1,5 @@
 > BUILDING THE FUTURE OF ANDROID TOOLS FOR DEVELOPERS.
+> Simple tools. Big impact.
 
 ![Logo](./assets/images/fast_logo.png)
 
@@ -9,8 +10,8 @@ Demo project coming soon
 Head over the wiki for more information or check out our website https://www.fast-sdk.com
 
 Current status : **Beta**  
-Last version : **0.8.9**  
-Number of tools: **9**  
+Last version : **0.1.1**
+Number of tools: **11**
 
 Please read the [Wiki](https://github.com/ToolsForDevs/FAST-SDK-Android/wiki/First-steps) for documentation on integration.
 
@@ -52,6 +53,8 @@ Logger | A very powerful Logcat | ![screenshot](./assets/images/logger.jpg)
 Overlays | Display visual information on your views like size, margins, paddings, positions, ... as well as pixel grids and rulers | ![screenshot](./assets/images/overlay.jpg)
 Network Inspector | Visualize you network requests (headers, body, ...) | ![screenshot](./assets/images/network_inspector.jpg)
 Resource Explorer | View your app’s resources like colors, dimensions, drawable and strings | **[Video](https://www.youtube.com/watch?v=8geHl8vYMFM)**<br/><br/> ![screenshot](./assets/images/resource_explorer.jpg)
+Restart Options | Quickly kill or restart your app or activity (and clear app data if you need to) | ![screenshot](./assets/images/restart_options.png)
 SharedPreferences Editor | Visualize and edit your SharedPreferences | ![screenshot](./assets/images/shared_preferences.jpg)
 View Inspector | Live edit your views and layouts | **[Video](https://www.youtube.com/watch?v=urumZQpa83I)**<br/><br/>  ![screenshot](./assets/images/view_inspector.jpg)
+Window Flags | Customize your Window’s flags, along with the status and navigation bars | ![screenshot](./assets/images/window_flags.gif)
 
