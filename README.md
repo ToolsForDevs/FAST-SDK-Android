@@ -1,6 +1,6 @@
 > Simple tools. BIG IMPACT.
 
-Would you say that *Android development* is rather **EASY** - or - ***Painful***?
+Would you say that *Android development* is rather **EASY** - or - ***PAINFUL***?
 
 Unfortunately, we all know the answer (and it's not the 4-letter one).
 
