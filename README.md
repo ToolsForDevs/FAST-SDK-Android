@@ -1,17 +1,23 @@
-> BUILDING THE FUTURE OF ANDROID TOOLS FOR DEVELOPERS.
-> Simple tools. Big impact.
+> Simple tools. BIG IMPACT.
+
+Would you say that *Android development* is rather **EASY** - or - ***Painful***?
+
+Unfortunately, we all know the answer (and it's not the 4-letter one).
+
+SO LET US **HELP** YOU WITH SOME **SIMPLE**, **TIME-SAVING TOOLS**.
 
 ![Logo](./assets/images/fast_logo.png)
 
 # Public repository of FAST SDK for Android
+**The First Android Tooling Framework Designed Specifically For Android Developers.**
 
 Demo project coming soon
 
 Head over the wiki for more information or check out our website https://www.fast-sdk.com
 
 Current status : **Beta**  
-Last version : **0.9.1**  
-Number of tools: **11**
+Last version : **0.9.4**
+Number of tools: **13**
 
 Please read the [Wiki](https://github.com/ToolsForDevs/FAST-SDK-Android/wiki/First-steps) for documentation on integration.
 
@@ -20,7 +26,7 @@ FAST SDK is a framework of UI tools for Android developers. In order to av
 
 **[Presentation video](https://www.youtube.com/watch?v=d_KzA5wDB10)**
 
-Its modularity allows you to include in your project only the tools you need. Each tool comes as a dependency like any third-party library.
+Its modularity allows you to include in your project only the tools you need. Each tool comes as a dependency, like any third-party library.
 
 The tools are only usable in the Android app (e.g not in your IDE, browser, or as a separate software). They are displayed in your Android app, over your activity’s layout. Rest assured, thanks to some magic, your layouts **ARE NOT** modified.
 
@@ -34,11 +40,12 @@ That is why FAST SDK has been designed form thebeginning with extension and 
 
 We have defined two main components:
 * Plugins : Plugins are the tools themselves, that can be used in the Android application
-* Modules : Modules are extensions for plugins. For example:
-  * a module to support custom widgets in the View Inspector plugin
-  * a module to support custom objects formatting in the Logger plugin
-  * a module to support a networking library in the Network Inspector plugin
-  * a module to define custom actions in the Actions plugin
+* Extensions : Extensions are a quick and easy way to add functionality to plugins. For example:
+  * an extension to support custom widgets in the View Inspector plugin
+  * an extension to support custom objects formatting in the Logger plugin
+  * an extension to support a networking library in the Network Inspector plugin
+  * an extension to define custom actions in the Actions plugin
+* Shared features : Shared features are feature modules you can depend on to build your custom plugins.
 
 FAST SDK is written in Kotlin, and will try its best to be compatible with Java (for developers).
 
@@ -50,11 +57,13 @@ Actions |Use the power of lambdas to execute any piece of code with or without p
 Crash Info | Instantaneously get data about a crash, and decide what to do after that (restart app, restart activity, clear data, ignore the crash and continue) | **[Video](https://www.youtube.com/watch?v=zYuKsefqR7U)**<br/><br/> ![screenshot](./assets/images/crash_info.png)
 File Explorer | Explore your app’s private data folders, as well as other directories on the device | ![screenshot](./assets/images/file_explorer.jpg)
 Logger | A very powerful Logcat | ![screenshot](./assets/images/logger.jpg)
+Manifest Explorer | An easy way to explore your app’s manifest and package content. You can even start activities and services! | ![screenshot](./assets/images/manifest_explorer.jpg)
 Overlays | Display visual information on your views like size, margins, paddings, positions, ... as well as pixel grids and rulers | ![screenshot](./assets/images/overlay.jpg)
 Network Inspector | Visualize you network requests (headers, body, ...) | ![screenshot](./assets/images/network_inspector.jpg)
 Resource Explorer | View your app’s resources like colors, dimensions, drawable and strings | **[Video](https://www.youtube.com/watch?v=8geHl8vYMFM)**<br/><br/> ![screenshot](./assets/images/resource_explorer.jpg)
 Restart Options | Quickly kill or restart your app or activity (and clear app data if you need to) | ![screenshot](./assets/images/restart_options.png)
 SharedPreferences Editor | Visualize and edit your SharedPreferences | ![screenshot](./assets/images/shared_preferences.jpg)
+Session Manager | Visualize your app’s important variables to check you app’s state at any moment | ![screenshot](./assets/images/session_manager.jpg)
 View Inspector | Live edit your views and layouts | **[Video](https://www.youtube.com/watch?v=urumZQpa83I)**<br/><br/>  ![screenshot](./assets/images/view_inspector.jpg)
 Window Flags | Customize your Window’s flags, along with the status and navigation bars | ![screenshot](./assets/images/window_flags.gif)
 
