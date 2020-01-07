@@ -11,7 +11,7 @@ SO LET US **HELP** YOU WITH SOME **SIMPLE**, **TIME-SAVING TOOLS**.
 # Public repository of FAST SDK for Android
 **The First Android Tooling Framework Designed Specifically For Android Developers.**
 
-Demo project coming soon
+*Demo project coming soon*
 
 Head over the wiki for more information or check out our website https://www.fast-sdk.com
 
@@ -22,9 +22,12 @@ Number of tools: **13**
 Please read the [Wiki](https://github.com/ToolsForDevs/FAST-SDK-Android/wiki/First-steps) for documentation on integration.
 
 ## What is FAST SDK?
-FAST SDK is a framework of UI tools for Android developers. In order to avoid any surprise quickly: FAST SDK **IS NOT FREE**, nor open source.
+Well, think of it as a magic toolbox for Android developers. For every problem, FAST has a tool to help you with the issue.
+And if it doesn't have the tool to your problem, well, you can build your own easily.
 
 **[Presentation video](https://www.youtube.com/watch?v=d_KzA5wDB10)**
+
+![screenshot](./assets/images/launcher.png)
 
 Its modularity allows you to include in your project only the tools you need. Each tool comes as a dependency, like any third-party library.
 
@@ -36,7 +39,7 @@ FAST SDK is a framework. While one of the primary objective is to provide UI t
 
 *While we don’t provide any documentation for creating your own tools during the beta phase (as we’re focused on making the first batch of tools), it will be available once the public beta is over.*
 
-That is why FAST SDK has been designed form thebeginning with extension and customization in mind. We want to offer the possibility to any Android developer to create its own tool(s) on top of our framework, or create extensions to existing tools.
+That is why FAST SDK has been designed form the beginning with extension and customization in mind. We want to offer the possibility to any Android developer to create their own tool(s) on top of our framework, or create extensions to existing tools.
 
 We have defined two main components:
 * Plugins : Plugins are the tools themselves, that can be used in the Android application
@@ -57,9 +60,9 @@ Actions |Use the power of lambdas to execute any piece of code with or without p
 Crash Info | Instantaneously get data about a crash, and decide what to do after that (restart app, restart activity, clear data, ignore the crash and continue) | **[Video](https://www.youtube.com/watch?v=zYuKsefqR7U)**<br/><br/> ![screenshot](./assets/images/crash_info.png)
 File Explorer | Explore your app’s private data folders, as well as other directories on the device | ![screenshot](./assets/images/file_explorer.jpg)
 Logger | A very powerful Logcat | ![screenshot](./assets/images/logger.jpg)
-Manifest Explorer | An easy way to explore your app’s manifest and package content. You can even start activities and services! | ![screenshot](./assets/images/manifest_explorer.jpg)
-Overlays | Display visual information on your views like size, margins, paddings, positions, ... as well as pixel grids and rulers | ![screenshot](./assets/images/overlay.jpg)
+Manifest Explorer | An easy way to explore your app’s manifest and package content. You can even start activities and services! | ![screenshot](./assets/images/manifest_explorer.png)
 Network Inspector | Visualize you network requests (headers, body, ...) | ![screenshot](./assets/images/network_inspector.jpg)
+Overlays | Display visual information on your views like size, margins, paddings, positions, ... as well as pixel grids and rulers | ![screenshot](./assets/images/overlay.jpg)
 Resource Explorer | View your app’s resources like colors, dimensions, drawable and strings | **[Video](https://www.youtube.com/watch?v=8geHl8vYMFM)**<br/><br/> ![screenshot](./assets/images/resource_explorer.jpg)
 Restart Options | Quickly kill or restart your app or activity (and clear app data if you need to) | ![screenshot](./assets/images/restart_options.png)
 SharedPreferences Editor | Visualize and edit your SharedPreferences | ![screenshot](./assets/images/shared_preferences.jpg)
