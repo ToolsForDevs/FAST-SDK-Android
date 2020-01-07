@@ -16,7 +16,7 @@ SO LET US **HELP** YOU WITH SOME **SIMPLE**, **TIME-SAVING TOOLS**.
 Head over the wiki for more information or check out our website https://www.fast-sdk.com
 
 Current status : **Beta**  
-Last version : **0.9.4**
+Last version : **0.9.4**  
 Number of tools: **13**
 
 Please read the [Wiki](https://github.com/ToolsForDevs/FAST-SDK-Android/wiki/First-steps) for documentation on integration.
