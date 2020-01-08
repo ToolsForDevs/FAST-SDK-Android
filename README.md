@@ -54,19 +54,32 @@ FAST SDK is written in Kotlin, and will try its best to be compatible with Jav
 
 
 ## Current available plugins
-Name | Description | Preview
----- | ----------- | -------
-Actions |Use the power of lambdas to execute any piece of code with or without parameters | **[Video](https://www.youtube.com/watch?v=F962GEgVUOY)**<br/><br/> ![screenshot](./assets/images/actions.jpg)
-Crash Info | Instantaneously get data about a crash, and decide what to do after that (restart app, restart activity, clear data, ignore the crash and continue) | **[Video](https://www.youtube.com/watch?v=zYuKsefqR7U)**<br/><br/> ![screenshot](./assets/images/crash_info.png)
-File Explorer | Explore your app’s private data folders, as well as other directories on the device | ![screenshot](./assets/images/file_explorer.jpg)
-Logger | A very powerful Logcat | ![screenshot](./assets/images/logger.jpg)
-Manifest Explorer | An easy way to explore your app’s manifest and package content. You can even start activities and services! | ![screenshot](./assets/images/manifest_explorer.png)
-Network Inspector | Visualize you network requests (headers, body, ...) | ![screenshot](./assets/images/network_inspector.jpg)
-Overlays | Display visual information on your views like size, margins, paddings, positions, ... as well as pixel grids and rulers | ![screenshot](./assets/images/overlay.jpg)
-Resource Explorer | View your app’s resources like colors, dimensions, drawable and strings | **[Video](https://www.youtube.com/watch?v=8geHl8vYMFM)**<br/><br/> ![screenshot](./assets/images/resource_explorer.jpg)
-Restart Options | Quickly kill or restart your app or activity (and clear app data if you need to) | ![screenshot](./assets/images/restart_options.png)
-SharedPreferences Editor | Visualize and edit your SharedPreferences | ![screenshot](./assets/images/shared_preferences.jpg)
-Session Manager | Visualize your app’s important variables to check you app’s state at any moment | ![screenshot](./assets/images/session_manager.jpg)
-View Inspector | Live edit your views and layouts | **[Video](https://www.youtube.com/watch?v=urumZQpa83I)**<br/><br/>  ![screenshot](./assets/images/view_inspector.jpg)
-Window Flags | Customize your Window’s flags, along with the status and navigation bars | ![screenshot](./assets/images/window_flags.gif)
 
+Actions | Crash Info | File Explorer
+------- | ---------- | ------------- 
+![screenshot](./assets/images/actions.jpg) | ![screenshot](./assets/images/crash_info.png) | ![screenshot](./assets/images/file_explorer.jpg)
+Use the power of lambdas to execute any piece of code with or without parameters | Instantaneously get data about a crash, and decide what to do after that (restart app, restart activity, clear data, ignore the crash and continue) | Explore your app’s private data folders, as well as other directories on the device
+[Video](https://www.youtube.com/watch?v=F962GEgVUOY) | [Video](https://www.youtube.com/watch?v=zYuKsefqR7U) | 
+
+Logger | Manifest Explorer | Network Inspector
+------ | ----------------- | ----------------- 
+![screenshot](./assets/images/logger.jpg) | ![screenshot](./assets/images/manifest_explorer.png) | ![screenshot](./assets/images/network_inspector.jpg)
+A very powerful Logcat  | An easy way to explore your app’s manifest and package content. You can even start activities and services! | Visualize you network requests (headers, body, ...)
+
+Overlays | Resource Explorer | Restart Options
+-------- | ----------------- | --------------- 
+![screenshot](./assets/images/overlay.jpg) | ![screenshot](./assets/images/resource_explorer.jpg) | ![screenshot](./assets/images/restart_options.png)
+Display visual information on your views like size, margins, paddings, positions, ... as well as pixel grids and rulers |  View your app’s resources like colors, dimensions, drawable and strings |  Quickly kill or restart your app or activity (and clear app data if you need to)
+&nbsp; | **[Video](https://www.youtube.com/watch?v=8geHl8vYMFM)** | 
+
+
+SharedPreferences Editor | Session Manager | View Inspector
+------------------------ | --------------- | --------------
+![screenshot](./assets/images/shared_preferences.jpg) | ![screenshot](./assets/images/session_manager.jpg) | ![screenshot](./assets/images/view_inspector.jpg)
+Visualize and edit your SharedPreferences |  Visualize your app’s important variables to check you app’s state at any moment | Live edit your views and layouts
+&nbsp; | &nbsp; | **[Video](https://www.youtube.com/watch?v=urumZQpa83I)**
+
+Window Flags | ... | ...
+------------ | --- | ---
+![screenshot](./assets/images/window_flags.gif) | &nbsp; | &nbsp;
+Customize your Window’s flags, along with the status and navigation bars | &nbsp; | &nbsp;
