@@ -16,8 +16,8 @@ SO LET US **HELP** YOU WITH SOME **SIMPLE**, **TIME-SAVING TOOLS**.
 Head over the wiki for more information or check out our website https://www.fast-sdk.com
 
 Current status : **Beta**  
-Last version : **0.9.5**  
-Number of tools: **13**
+Last version : **0.9.8**
+Number of tools: **14**
 
 Please read the [Wiki](https://github.com/ToolsForDevs/FAST-SDK-Android/wiki/First-steps) for documentation on integration.
 
@@ -79,7 +79,7 @@ SharedPreferences Editor | Session Manager | View Inspector
 Visualize and edit your SharedPreferences |  Visualize your app’s important variables to check you app’s state at any moment | Live edit your views and layouts
 &nbsp; | &nbsp; | **[Video](https://www.youtube.com/watch?v=urumZQpa83I)**
 
-Window Flags | ... | ...
------------- | --- | ---
-![screenshot](./assets/images/window_flags.gif) | &nbsp; | &nbsp;
-Customize your Window’s flags, along with the status and navigation bars | &nbsp; | &nbsp;
+Window Flags | Environment Switch | ...
+------------ | ------------------ | ---
+![screenshot](./assets/images/window_flags.gif) | ![screenshot](./assets/images/environment_switch.png) | &nbsp;
+Customize your Window’s flags, along with the status and navigation bars | An easy way to switch between your app's custom environments | &nbsp;
